@@ -1,5 +1,4 @@
----
 title: "Great Title"
-date: YYYY-MM-DD
----
+date: 2020-09-29
+
 ## My first post
